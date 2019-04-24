@@ -1,5 +1,11 @@
 # Laravel Impersonate Changelog
 
+## 1.3.0 (2018-01-19)
+
+### Changed
+
+- Laravel 5.8 compatibility (min version)
+
 ## 1.2.2 (2018-01-19)
 
 ### Changed
